@@ -18,24 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Deep H. Dave
+title: Ruchita Ganurkar
 # email: your-email@example.com
-description: Learn and Share
+description: Platform For Curious Minds
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: deephdave
-github_username:  deephdave
+github_username:  RuchitaGanurkar
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: https://deephdave.com/assets/img/Deep.png
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: https://deephdave.com/assets/img/Deep.png
 
 
-twitter:
-  username: deephdave
-  card: summary_large_image
+# twitter:
+#   username: deephdave
+#   card: summary_large_image
 
 
 markdown: kramdown
