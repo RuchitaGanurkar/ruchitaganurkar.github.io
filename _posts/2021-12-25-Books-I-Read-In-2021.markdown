@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Books I Read In 2021"
+date:   2021-12-25 18:43:31 +0530
+#categories: jekyll update
+---
+
+### **Career, Startup & Biography**
+
+- [Catalyst: The ultimate strategies on how to win at work and in life - Chandramouli Venkatesan](https://www.goodreads.com/book/show/38587103-catalyst)
+
+- [The Minimalist Entrepreneur: How Great Founders Do More with Less - Sahil Lavingia](https://www.goodreads.com/book/show/56913172-the-minimalist-entrepreneur)
+
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance](https://www.goodreads.com/book/show/25541028-elon-musk)
+
+- [Wings of Fire: An Autobiography  - A.P.J. Abdul Kalam, Arun Tiwari](https://www.goodreads.com/book/show/634583.Wings_of_Fire)
+
+- [Faster than Lightning: My Autobiography - Usain Bolt](https://www.goodreads.com/book/show/18906266-faster-than-lightning)
+
+### **Data, Cloud & Cryptocurrency**
+
+- [Designing Data-Intensive Applications]([https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+
+- [Explain the Cloud Like I'm 10](https://www.goodreads.com/book/show/38598010-explain-the-cloud-like-i-m-10)
+
+- [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.goodreads.com/book/show/23546676-digital-gold)
+
+- [The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://www.goodreads.com/book/show/50175330-the-infinite-machine)
+
+- [The Internet of Money Volume 1,2,3 - Andreas M. Antonopoulos](https://www.goodreads.com/book/show/31869077-the-internet-of-money)
+
+### **Life, Living & Mindset**
+
+- [I Hate Running and You Can Too: How to Get Started, Keep Going, and Make Sense of an Irrational Passion  - Brendan Leonard](https://www.goodreads.com/book/show/54110572-i-hate-running-and-you-can-too)
+
+- [The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way - Hector Garcia Puigcerver](https://www.goodreads.com/book/show/49100630-the-book-of-ichigo-ichie)
+
+- [Dedicated: The Case for Commitment in an Age of Infinite Browsing - Pete Davis](https://www.goodreads.com/book/show/55711620-dedicated)
+
+- [Linchpin: Are You Indispensable? - Seth Godin](https://www.goodreads.com/book/show/7155145-linchpin)
+
+- [Skin in the Game: The Hidden Asymmetries in Daily Life - NN Taleb](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
+
+- [The Black Swan: The Impact of the Highly Improbable - NN Taleb](https://www.goodreads.com/book/show/242472.The_Black_Swan)
+
+- [The Courage to Be Happy: Discover the Power of Positive Psychology and Choose Happiness Every Day - Ichiro Kishimi, Fumitake Koga](https://www.goodreads.com/book/show/52378269-the-courage-to-be-happy)
+
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love - Cal Newport](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+
+- [The Art of the Good Life - Rolf Dobelli](https://www.goodreads.com/book/show/36340275-the-art-of-the-good-life)
+
+- [Chatter: The Voice in Our Head, Why It Matters, and How to Harness It - Ethan Cross](https://www.goodreads.com/book/show/53330118-chatter)
+
+- [Decisive: How to Make Better Choices in Life and Work - Chip Heath, Dan Heath](https://www.goodreads.com/book/show/15798078-decisive)
+
+- [The Comfort Book - Matt Haig](https://www.goodreads.com/book/show/55825273-the-comfort-book)
+
+### **Personal Finance**
+
+- [Let's Talk Money - Monika Halan](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
+
+- [The Psychology of Money - Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+
+- [Your Money or Your Life - Vicki Robin, Joe Dominguez](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
+
+### **Non-Fiction**
+
+- [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens)
+
+- [Homo Deus: A History of Tomorrow - Yuval Noah Harari](https://www.goodreads.com/book/show/31138556-homo-deus)
+
+- [21 Lessons for the 21st Century - Yuval Noah Harari](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century)
+
+- [Humankind: A Hopeful History - Rutger Bregman](https://www.goodreads.com/book/show/52879286-humankind)
+
+- [The Beginning of Infinity: Explanations That Transform the World - David Deutsch](https://www.goodreads.com/book/show/5696954-the-beginning-of-infinity)
+
+- [The Shallows: What the Internet Is Doing to Our Brains - Nicholas Carr](https://www.goodreads.com/book/show/9778945-the-shallows)
+
+### **Fiction**
+
+- [The Forty Rules of Love - Elif Shafak](https://www.goodreads.com/book/show/25701206-the-forty-rules-of-love)
+
+- [The Da Vinci Code - Dan Brown](https://www.goodreads.com/book/show/968.The_Da_Vinci_Code)
+
+- [The Wind-Up Bird Chronicle  - Haruki Murakami](https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle)
+
+- [Kafka on the Shore  - Haruki Murakami](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
+
+- [Norwegian Wood  - Haruki Murakami](https://www.goodreads.com/book/show/11297.Norwegian_Wood)
+
+- [After Dark - Haruki Murakami](https://www.goodreads.com/book/show/17803.After_Dark)
+
+- [First Person Singular: Stories - Haruki Murakami](https://www.goodreads.com/book/show/54614599-first-person-singular)
+
+- [The Paper Menagerie and Other Stories - Ken Liu](https://www.goodreads.com/book/show/24885533-the-paper-menagerie-and-other-stories)
+
+- [Manto: Selected Stories - Saadat Hasan Manto](https://www.goodreads.com/book/show/7518598-manto)
+
+
+
+PS: You can follow me on [GoodReads](https://www.goodreads.com/deephdave)
