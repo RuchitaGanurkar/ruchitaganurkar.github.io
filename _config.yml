@@ -25,11 +25,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RuchitaGanurkar
 
-# defaults:
-#   - scope:
-#       path: ""
-#     values:
-#       image: https://deephdave.com/assets/img/Deep.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://ruchita-ganurkar.com/assets/img/Ruchita.png
 
 
 # twitter:
