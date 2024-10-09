@@ -4,6 +4,9 @@ title: Links
 permalink: /links/
 ---
 
-## Newsletters
+## Installations [ UBUNTU ]
 
-- [3-2-1 Thursday newsletter by James Clear](https://jamesclear.com/3-2-1)
+- [How To Setup Jekyll Website](https://jekyllrb.com/docs)
+
+
+- [How To Setup Haskell](https://www.haskell.org/ghcup)
