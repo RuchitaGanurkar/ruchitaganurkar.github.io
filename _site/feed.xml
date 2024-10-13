@@ -1,40 +1,313 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-13T15:44:37+05:30</updated><id>/feed.xml</id><title type="html">Ruchita Ganurkar</title><subtitle>Platform For Curious Minds</subtitle><entry><title type="html">The Dilemma of Procrastination</title><link href="/2017/07/08/The-Dilemma-of-Procrastination.html" rel="alternate" type="text/html" title="The Dilemma of Procrastination" /><published>2017-07-08T18:02:31+05:30</published><updated>2017-07-08T18:02:31+05:30</updated><id>/2017/07/08/The-Dilemma-of-Procrastination</id><content type="html" xml:base="/2017/07/08/The-Dilemma-of-Procrastination.html">&lt;p&gt;I used to procrastinate a lot before I have decided to write about procrastination. I don’t know what procrastination means until I found myself stuck at most of the time and realized that this state is called procrastination. So I have decided to write about procrastination without any further delay!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-13T19:02:54+05:30</updated><id>/feed.xml</id><title type="html">Ruchita Ganurkar</title><subtitle>Platform For Curious Minds</subtitle><entry><title type="html">No Error Resolving Bug</title><link href="/2020/12/13/No-Error-Resolving-Bug.html" rel="alternate" type="text/html" title="No Error Resolving Bug" /><published>2020-12-13T18:02:31+05:30</published><updated>2020-12-13T18:02:31+05:30</updated><id>/2020/12/13/No-Error-Resolving-Bug</id><content type="html" xml:base="/2020/12/13/No-Error-Resolving-Bug.html">&lt;p&gt;Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.&lt;/p&gt;
 
-&lt;p&gt;If you are still confused what procrastination means then according to the definition, it means the action of delaying or postponing something.&lt;/p&gt;
+&lt;p&gt;If computer programming is one of the most interesting fields anyone can choose ever then it’s also one of the most dangerous paths someone can choose for themselves. A programmer knows how much he/she needs to be careful while writing bug-free code. One small mistake can make someone a rich person just in a few seconds and it can also cause a loss of money in business and even human life. Let’s get started with bugs!! It’s a modern concept related to computer software as well as hardware. It’s much older indeed. It’s a behavior or results in the system gets which is no designed to perform. Most of the bugs occur due to developers while writing source code, compilers during converting one language into another. The program which occurred with a large number of bugs can be called ”Buggy”. Some bugs cause issues related to security &amp;amp; some either cause the program to crash &amp;amp; databases not respond. While adding different functionalities many bugs take place in software. The bottom line to remember is computer viruses are not bugs, they’re replicated while bugs can’t be.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*cdqoZ4f2FHCXv5KjhGN_bA.jpeg&quot; alt=&quot;Hey procrastinators! Don’t wait for an inspiration, Do it now!&quot; /&gt;&lt;em&gt;Hey procrastinators! Don’t wait for an inspiration, Do it now!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The first recorded use of the term “bug”, with regards to an error or malfunction in a machine, comes from none other than Thomas Edison. Became a popular term for mechanical faults. The word bug was commonly used in engineering terminology. Famously, the very first instance of a computer “bug” was recorded at 3:45 pm (15:45) on the 9th of September 1947. This “bug” was an actual real-life moth, well, an ex-moth, that was extracted to the number 70 relay, Panel F, of the Harvard Mark II Aiken Relay Calculator.&lt;/p&gt;
 
-&lt;p&gt;People always advise me to stay focused and curious all the time, yes, I want to stay focus and curious, but most of them might don’t know I was a procrastinator. Many procrastinators waste time by waking up late and reaching late at the workplace, interfering in the business of others, unable to manage their time efficiently.&lt;/p&gt;
+&lt;p&gt;The Y2K famously caused the display of the wrong date, because the programs were not designed to handle dates after the year 1999. This bug was called Y2K or “millennium bug”. The letter K stands for kilo used to represent the number 1, 000. So, Y2K stands for the Year 2000. It affected banks that calculate interest rates daily, centers of technology such as power plants, transportation, and a lot of things. Billions of dollars were spent to upgrade computer systems worldwide. The Windows calculator also contains a bug with itself. This bug exists in almost all Windows versions including Windows XP, Vista, 7, and Windows 8. You can check it in your system. Open Windows Calculator, then type 4 and take the square root, you will get 2 then subtract 2 from it. Instead of result 0, you will see a different result. The largest online payment processor in the world Paypal also faced programming errors. PayPal accidentally makes Pennsylvania man Chris Reynolds the world’s richest person with $92 quadrillion. The exact amount is significant in the world of 64-bit numbers suggesting a programming error. Many computers run on Intel technology and Intel is always known for its good processors but a bug was found in the Pentium x86 processor.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Symptoms of procrastination:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Time to shift on the next part of the article, it’s about errors in the computer system. Unexpectedly causes the computer not to perform or function properly. Let’s clear the difference between bugs &amp;amp; and errors. The bug is an error found in code, but errors are the messages shown by the system to the user. System errors are commonly fixed by updating systems. Hardware errors defect inside computer connections. Mostly we can replace the hardware to resolve such errors.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fear of failure&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Laziness&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Distractions&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Feeling overwhelmed&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;To understand the type of computer errors we first need to study the message through which errors occur on our computer screen. Human errors are caused mostly by humans, not by hardware or software. Being aware of what we’re performing on-screen &amp;amp; confirming only valid permission can reduce human errors. File not found errors sometimes irritate us after being saving the file on the computer it doesn’t find by the user. When this error occurs make sure the file exists in a specific location. If the case file had been moved or deleted file was not found error occurs. Access denied error when a user doesn’t have appropriate access rights. We have to grant permission from the administrator in the case to access some network. We get disturbed when a blue screen occurs, it calls the Blue screen of death error. BSoD is mostly caused due to a hard drive &amp;amp; it unable users to read or write data. It’s mostly encountered with computers using the Windows operating system. When a web page is not available it occurs with a 404 error. You can’t do anything to get access to that website.&lt;/p&gt;
 
-&lt;p&gt;The procrastinators often get distracted easily. They get distracted by many factors like surfing the internet just to kill the time, social media scrolling for the indefinite time, checking notifications of different apps on the smartphone. They might have fear of failure before starting any new task. They might be too lazy to work, one study shows that inactivity kills as many people as smoking. They might feel overwhelmed by the enormous amount of task and it drains the energy.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Always remember whether it’s technology or life 
+errors can’t be subtracted or ignored 
+it always get added in the next action.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Remedies of procrastination:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Yes, that’s it for 2020’s last blog. Let your life be error &amp;amp; bug-free. Make the best of 2020s few days happening &amp;amp; enjoy your upcoming year.&lt;/p&gt;
 
-&lt;p&gt;While searching for remedies of procrastination, I found a TED talk, “Inside the mind of a master procrastinator” by Tim Urban co-founder of &lt;a href=&quot;https://waitbutwhy.com/&quot;&gt;Wait But Why&lt;/a&gt; . This site covers a range of subject as a long-form blog.&lt;/p&gt;
+&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tunnel Of The Thought</title><link href="/2020/11/13/Tunnel-Of-The-Though.html" rel="alternate" type="text/html" title="Tunnel Of The Thought" /><published>2020-11-13T18:02:31+05:30</published><updated>2020-11-13T18:02:31+05:30</updated><id>/2020/11/13/Tunnel-Of-The-Though</id><content type="html" xml:base="/2020/11/13/Tunnel-Of-The-Though.html">&lt;p&gt;Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.&lt;/p&gt;
 
-&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/arj7oStGLkU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;p&gt;This stuff is all about recent studies about the brain, its emotions &amp;amp; body responses. Our brain’s network generates three mental states emotions, body feelings, thoughts. All those interlink human behavior. The one feeling we human being constantly go through is infatuation. It’s an intense feeling of passion for specific individuals. Synonyms for infatuation can be madness or passion. It is often characterized by persistent, continuous thoughts about the object. These thoughts may take on fantasies, anxiously distracting concentration &amp;amp; feeling of stress. Individuals flow &amp;amp; focuses at one moment on the possibilities of one’s feeling are reciprocated &amp;amp; at the next moment it’s not. This contribution of emotional turbulence is experienced by infatuated individuals.&lt;/p&gt;
 
-&lt;p&gt;So he talks about how Instant Gratification Monkey always craves for the something new activities and make a person procrastinator. And then how the Panic Monster intimidates the Instant Gratification Monkey during too close project deadline and makes him run away so that person can focus on work.&lt;/p&gt;
+&lt;p&gt;Infatuation is more likely to emerge during the early stage of a relationship &amp;amp; is unlikely to last forever. This passion has an intensity to fade up over time. Several deadlines exist such as if the process of self-expansion runs to completions infatuation fade up. Confusion about each other’s feelings &amp;amp; intentions probably does a poor job in case of securities &amp;amp; trust.&lt;/p&gt;
 
-&lt;p&gt;Another remedy is to read a book, “&lt;a href=&quot;https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349411905&quot;&gt;Deep Work: Rules for Focused Success in a Distracted World&lt;/a&gt;” by Cal Newport. He is an associate professor in the department of computer science at Georgetown University. He discusses ideas of Deep Work and rules like embrace the boredom to work deeply and on social media stop reciprocating such as follow for follow and like for like, so that you can manage your time efficiently.&lt;/p&gt;
+&lt;p&gt;Infatuated individuals commonly idealize &amp;amp; acknowledge the negative qualities, worship positive qualities. They idealize the object toward them they feel the intense passion. But as we know exceptions always exist, this all not necessarily pronounced in every infatuation individual.&lt;/p&gt;
 
-&lt;p&gt;Some people have categorized procrastination as “good procrastination” vs “bad procrastination”. You can find many people around you who are used to procrastinating, yet they are successful. They know how to prioritize the task and how to finish pending tasks as soon as possible. They set the goal to achieve something in certain time such as reading book within few hours or days. They always keep reading and learning something new to expand the horizon of knowledge. while procrastinators keep delaying tasks and probably will never start again.&lt;/p&gt;
+&lt;p&gt;Sternberg’s triangular theory explored infatuation explaining three components of love in his theory Passion, Intimacy, Commitment. Different types of emotions emerge from a different mixture of any or all of these components in varying degrees.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“It’s never too late to start over. If you weren’t happy with yesterday, try something different today. Don’t stay stuck. Do better.”&lt;/em&gt; — Alexandra Elle&lt;/p&gt;</content><author><name></name></author><summary type="html">I used to procrastinate a lot before I have decided to write about procrastination. I don’t know what procrastination means until I found myself stuck at most of the time and realized that this state is called procrastination. So I have decided to write about procrastination without any further delay!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Intimacy – It refers to the closeness of individuals.
+Passion – It refers to the attraction of individuals.
+Commitment – It refers to the decision 
+             to love someone in the long term.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can read more about triangular theory here and I’m gonna finish this little but important topic now. Enjoy the 2020 festive season, stay happy &amp;amp; healthy. Be ready to read the next blog very soon.&lt;/p&gt;
+
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Laws Rules You</title><link href="/2020/10/13/Laws-Rules-You.html" rel="alternate" type="text/html" title="Laws Rules You" /><published>2020-10-13T18:02:31+05:30</published><updated>2020-10-13T18:02:31+05:30</updated><id>/2020/10/13/Laws-Rules-You</id><content type="html" xml:base="/2020/10/13/Laws-Rules-You.html">&lt;p&gt;Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.&lt;/p&gt;
+
+&lt;p&gt;Murphy’s law is not a law basically, it’s a statement with no relevant proof. Its origin is unknown to murphy also. So scientists can’t find its traces at all. Scientists relate it with mathematical logic as well as some laws of universe entropy i.e. Second Law Of Thermodynamics.&lt;/p&gt;
+
+&lt;p&gt;Murphy’s statement is just an imagination, the physical process of entropy can’t relate to the imagination. Philosophically the statement seems connected, however from a scientific point of view it’s unrelated. It does not rely on any mathematical concept. By some research papers tried to put that statement equivalent to mathematical logic &amp;amp; probabilities theory. As well as ‘rightness’ &amp;amp; ‘wrongness’ from the energy context they understand the physical essence of it.&lt;/p&gt;
+
+&lt;p&gt;Murphy’s statement is more philosophical connections with ‘rightness’ &amp;amp; ‘wrongness’ which is hard to prove &amp;amp; disprove. Murphy’s statement stated about the occurrence of event &amp;amp; occurrence is related to chance. Mathematical propositional logic to build probability of occurrence comes under observation &amp;amp; it’s really helpful to prove &amp;amp; disprove a statement.&lt;/p&gt;
+
+&lt;p&gt;All you must be waiting what’s murphy’s actual statement for it I’ve been writing such paragraphs. Logically it can be divided into two components of If &amp;amp; Then. If something can go wrong Then it will go wrong. At one point you’ve learned about the proposition logic term in mathematics. Chain of statements p -› q asserts that the occurrence of q is dependent upon the occurrence of p. If p happens, ultimately replicate q will happen.&lt;/p&gt;
+
+&lt;p&gt;Moving forward to Thermodynamics, it’s second law that deals with natural processes &amp;amp; justifies the occurrence or nonoccurrence of any process. Murphy’s statement refers to the probability of occurrence of any event. From the thermodynamic perspective decrease in activity is equivalent to an increase in entropy. Murphy’s statement vaguely mentions the process but stresses quality aspects of ‘rightness’ &amp;amp; ‘wrongness’. It doesn’t talk about the system for sure but the process which undergoes in action.&lt;/p&gt;
+
+&lt;p&gt;Murphy’s law severs anecdote in many real-life circumstances. It’s often misinterpreted to hold resemble physics laws because it already holds philosophical connections &amp;amp; appears by generalizing all things happening around us.&lt;/p&gt;
+
+&lt;p&gt;Well, I’d like to end it with some other murphy’s law. Here I have a collection of laws that you’d love to read repeatedly in category-wise.&lt;/p&gt;
+
+&lt;p&gt;Murphy’s Technology Law&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;logic is a systematic method of coming to
+the wrong conclusion with confidence.
+Whenever a system becomes completely defined, 
+some damn fool discovers something which either 
+abolishes the system or expands it beyond recognition.
+
+If builders built buildings the way 
+programmers wrote programs, 
+then the first woodpecker that came 
+along would destroy civilization.
+
+Tell a man there are 300 billion stars 
+in the universe &amp;amp; he’ll believe you. 
+Tell him a bench has wet paint on it &amp;amp; 
+he’ll have to touch to be sure.
+
+All discoveries are made by mistake. 
+If it’s not on the computer, it doesn’t exist.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Murphy’s Love Law&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;All the good ones are taken. 
+If the person isn’t taken, there’s a reason.
+
+Money can’t buy love, but it sure 
+gets you a great bargaining position.
+
+Availability is a function of time. 
+The minute you get interested in the minute 
+they find someone else.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Murphy’s Military Law&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The problem with taking the easy way 
+out is that the enemy has already mined it.
+
+The only thing more accurate than incoming 
+enemy fire is incoming friendly fire.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Murphy’s Philosophy Law&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Smile… tomorrow will be worse.
+
+Things get worse under pressure.
+
+Whenever you set out to do something, 
+something else must be done first.
+
+It is impossible to make anything foolproof 
+because fools are so ingenious.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Summing up the entire topic, just remember if anything went wrong you were not responsible for it. So, let go past regrets from now and enjoy life from the heart. If this content has cultivated a curiosity about the murphy let me know in the comments. The next blog post will come into your mailbox 📭 if you subscribe to it.&lt;/p&gt;
+
+&lt;p&gt;-Than You.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">To Be Or Not To Be</title><link href="/2020/09/13/To-Be-Or-Not-To-Be.html" rel="alternate" type="text/html" title="To Be Or Not To Be" /><published>2020-09-13T18:02:31+05:30</published><updated>2020-09-13T18:02:31+05:30</updated><id>/2020/09/13/To-Be-Or-Not-To-Be</id><content type="html" xml:base="/2020/09/13/To-Be-Or-Not-To-Be.html">&lt;p&gt;Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.&lt;/p&gt;
+
+&lt;p&gt;Carrying your thoughts to my first blog ‘What Do You Deserve’ I had mentioned why you should live happily ever after every moment, problem &amp;amp; solution too. Moving onwards to the second blog ‘Article Of Your Downfall’ I used how Edison described his trials with a positive attitude along with some specifications. Then reaches to third ‘One Question – Have You Reached?’ I tried to collect how the great Bhaskaracharya &amp;amp; Denis Diderot struggle with their satisfaction level &amp;amp; one of them reached while the other doesn’t.&lt;/p&gt;
+
+&lt;p&gt;LINKS ARE HERE&lt;/p&gt;
+
+&lt;p&gt;What Do You Deserve?&lt;/p&gt;
+
+&lt;p&gt;Article Of Your Downfall&lt;/p&gt;
+
+&lt;p&gt;Reaching A Place&lt;/p&gt;
+
+&lt;p&gt;‘To Be Or Not To Be’ is a universal question we daily ask ourselves, just to confirm will it reflect something good or not it’s a question asked in a recursion manner. But here comes some steps before this question. These are the most important steps to be performed by everyone &amp;amp; for every action. These are the steps of ‘START’ &amp;amp; ‘CONTINUE’ next to that. Recently I found one image it is given below-
+How vast difference we get!&lt;/p&gt;
+
+&lt;p&gt;Isn’t it aiming? If we just start any activity from 1.00 for 365 days i.e a year it’ll reflect nothing but just 1.00. But when our efforts are increased by 0.01 per day it gives us such a big number as an outcome. Just look at that 0.99 it says if we minus 0.01 from that it impacted on 1.00 with such a huge loss &amp;amp; we serve every year to our life. A similar thing goes with 1.02 &amp;amp; 0.98. The basic criteria we should notice here is the power of 1, 1.01, 1.02 which is changing in laps in compounding form. While deciding any activity to be performed or not we have to keep this magic strategy in our mind.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Those who start from little goes up to miles.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In the book ‘THE COMPOUND EFFECT – DARREN HARDY the founder of The Success Magzine (It’s a thought to represent successful people’s key ideas &amp;amp; their paths from past &amp;amp; present achievements) had put five points in front of us explaining how the magic of compound effect helps us. Some unbreakable chunks I’ve added below. But before going directly into deep thoughts, let’s have a view of how the author was guided by his dad. The core concept came from his dad. Our parents are our first coach hence igniting the power of Compound Effect Darren’s dad were responsible.&lt;/p&gt;
+
+&lt;p&gt;“Excuses lead us to failure” so, as being a formal university football coach he doesn’t accept any excuses from his son. After that reaching to the top salesperson, boss &amp;amp; went to his own company was something called achievements. He behaves the same for Darren’s achievement. This way, Darren started to move towards his success in The Success Magazine.&lt;/p&gt;
+
+&lt;p&gt;Pieces From The Book-&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;In compound affect what we need to keep in mind is our consistency 
+&amp;amp; efficiency for particular work. People quit after the eighth day 
+of running because they’re still overweight. 
+Many people hope for better payoffs than better output, 
+which doesn’t happen at all.
+
+Experience of prosperity, good health &amp;amp; wealth lead us too complacent. 
+We stop doing what we did to get us there. We become like the frog in the 
+boiling water that doesn’t jump to his freedom because the warming is 
+so incremental and insidious that he doesn’t notice he’s getting cooked!
+
+How much you need to work is defined by the author as follows – 
+If your competitor is smarter, more talented, or experienced, 
+you just need to work three or four times as hard. You can still beat them!”
+Make a better choice for a bright future. 
+Choices are at the root of every one of your results. 
+Our choices can be our best friend or our worst enemy. 
+They can deliver us to our goals.
+
+If you want to get from where you are to where you want to be, 
+you have to start by becoming aware of the choices that 
+lead you away from your desired destination.
+
+Unawareness continuously guides us in darkness. 
+We never know where we’ll fall &amp;amp; how deep. Your biggest challenge is that 
+you’ve been sleepwalking through your choices. Half the time, 
+you’re not even aware you’re making them!
+
+So how to be aware? Tracking is a simple exercise. 
+It works because it brings moment-to-moment awareness to 
+the actions you take in the area of your life you want to improve.
+
+When we learn how to take responsibility on our shoulders 
+we learn how to define luck. “Luck is when opportunity meets preparation”—isn’t enough.
+How you attempt to do things will cause your output 
+because everyone is affected by three kinds of influences: 
+input (what you feed your mind), associations 
+(the people with whom you spend time), and the environment (your surroundings).
+
+You cannot hang out with the environment of negative 
+people and expect to live a positive life.
+Do you know why people feel jealous about your fame, 
+success &amp;amp; life which they try to copy but can’t? 
+Because your decision to live a more positive, 
+goal-oriented life will be a mirror to their own poor choices
+
+One friendly advice given by Darren befriends 
+the person you think is the biggest, 
+most successful person in your field
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Some amazing quotes from the same book-&lt;/p&gt;
+
+&lt;p&gt;“There is a point in every race when a rider encounters his real opponent and understands that it’s himself,” – Lance&lt;/p&gt;
+
+&lt;p&gt;“Don’t wish it were easier; wish you were better.” – Jim Rohn&lt;/p&gt;
+
+&lt;p&gt;“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge.” – Dr. Martin Luther King Jr.&lt;/p&gt;
+
+&lt;p&gt;Coming to the end segment i.e reason why I chose this topic was, we either stuck between making choices &amp;amp; in decision making the factor so-called compound effect plays a very huge role, somehow the same as it plays in investments. And decision making has more importance in our daily life which we have to make by keeping the concept of the compound effect. Because “As a man sows, so shall he reap”.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoyed this read, as it took a lot of effort from my side. So to appreciate my work you’ll definitely share it. Bring your thoughts to me by reaching my official accounts. I’m taking leave now for the next article stay with &lt;a href=&quot;https://ruchita-ganurkar.com&quot;&gt;Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reaching A Place</title><link href="/2020/08/13/Reaching-A-Place.html" rel="alternate" type="text/html" title="Reaching A Place" /><published>2020-08-13T18:02:31+05:30</published><updated>2020-08-13T18:02:31+05:30</updated><id>/2020/08/13/Reaching-A-Place</id><content type="html" xml:base="/2020/08/13/Reaching-A-Place.html">&lt;p&gt;Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..&lt;/p&gt;
+
+&lt;p&gt;The war we’ve been facing to make our life better is never-ending. Illusionary view society, surroundings, family, friends, strangers, technology, politics have been revealing us for decades. We responses them very reasonably all the time hence it’s no end. If not we then someone else will respond to them and the history will keep reiterating the same actions. Some of the below personalities struggled the same &amp;amp; we’re repeating the actions like them. It influences the same result but for us, it’s awful than that effect. Because we’ve none to prevent it we only have one who keeps provoking us to do such stupidity. Before time passes if such activities recognized then hopefully the result will be different. Similarly, before time slips from our hand if we learned how to use them in a good manner then also resulting output will be on our side.&lt;/p&gt;
+
+&lt;p&gt;So about whom I’m talking? There are two persons whom discoveries &amp;amp; findings have been helping us from decades. Few people know who found the encyclopedia &amp;amp; few people know who Lilavati was. One’s theory &amp;amp; another’s effect is enough under today’s title.&lt;/p&gt;
+
+&lt;p&gt;Let’s start with Indian mathematician Bhaskaracharya. Yes, the one who has made the world richer with great work! Once who has also worked as a philosopher &amp;amp; as a poet. Who’ve come across us with a book called “LILAVATI”. Who was the first to discover gravity before Newton.&lt;/p&gt;
+
+&lt;p&gt;That immortal book has an interesting story behind that derived name. The actual fact is that Lilavati was his only daughter. That time also astrology &amp;amp; astrologer has an important contribution is someone’s birth &amp;amp; death. Same went with Lilavati, when she was born two of the known astrologers had cast her horoscope &amp;amp; predicated that stars under which she’d born were not lead her to married life. They also suggested Bhaskaracharya not to get her daughter married.&lt;/p&gt;
+
+&lt;p&gt;The thing here is reaching a place, but which place Bhaskaracharya wanted to reach is that she was his only daughter &amp;amp; he wanted her to live a happy life, then for the sake of his daughter’s happiness he pleaded with an astrologer to calculate at least one auspicious moment when stars would favor her marriage. Astrologer took four days &amp;amp; came out with that day. When she would reach her 25th year then only set date for wedding her marriage was possible. Lilavati was seated in the embrace of her uncle, who was to give away the bride. To determine the exact moment, when the ceremony could start, the astrologers and priests set an hourglass beside Lilavati. Lilavati gazed at the floating cup from time to time, to see how near she was approaching the propitious moment.&lt;/p&gt;
+
+&lt;p&gt;After quite some time had passed, one of the astrologers looked into the hourglass and cried “Alas! the propitious moment has come and gone”! He lifted the vessel from the water. No liquid had entered the vessel and therefore no liquid had flown through the cavity. As Lilavati sitting in the embrace of her uncle, in her anxiety, had bent several times over the cup, a pearl had dropped from her ornaments and blocked the opening through which the fluid should have passed. And now the auspicious hour had gone unnoticed and it was forever too late!&lt;/p&gt;
+
+&lt;p&gt;To console the unhappy Lilavati, to whom normal pleasures of married life were denied forever, Bhaskaracharya promised to work upon a book in mathematics and name it after her! And he finally reached one place where he &amp;amp; his wisdom belong.&lt;/p&gt;
+
+&lt;p&gt;This person has set radical philosophical ideas about materialism with very famous quotes “Man will never be free until the last king is strangled with the entrails of the last priest”.&lt;/p&gt;
+
+&lt;p&gt;In the  mid-1700’s France, there lived an artist and writer facing poverty. His name was Denis Diderot. The son of a successful craftsman. He obtained a Master of Arts in philosophy but Diderot dreamed of becoming a writer. At the age of 21, he dropped out of school. His father disowned him because of well-established family background and Diderot lived a scrappy bohemian lifestyle for the next thirty years. Here comes how satisfaction plays with our minds. He enjoyed this simple life. His robes were plain &amp;amp; comfortable. He has a home with a tiny writing desk and a tattered straw chair. He spent his evenings at his battered desk under candlelight.&lt;/p&gt;
+
+&lt;p&gt;Diderot wrote novels and critiques of the French government, and article by article, book by book. This way he wrote Encyclopedia, one of the most comprehensive encyclopedias of the era despite his lack of disposable income, he came up with an impressive collection of books.&lt;/p&gt;
+
+&lt;p&gt;From next how Diderot Effect means &amp;amp; how it affects you’ll read. His ideas impressed the Russian Empress Catherine the Great. In 1763, Catherine the Great purchased his personal library, paying an enormous sum for his collection because she learned Diderot needs financial help. By requesting him to keep those books at his home she offered him a generous annual salary to act as the collection’s caretaker. She paid his salary for the next 50 years upfront. And bravo! Diderot, age 52, became a wealthy man.&lt;/p&gt;
+
+&lt;p&gt;He thought there wouldn’t be any harm if he spent some money just to indulge himself. Diderot bought himself a fine scarlet robe. One night he noticed that ugly chair &amp;amp; thought how could he sit in an ugly chair while wearing a beautiful robe? What if the straw tore the robe? Diderot replaced it with an armchair in Moroccan leather. Again he replaced desk it with a gleaming new wooden table. He bought a finely-crafted bureau with drawers with a pile of paperwork. Piece by piece, Diderot replaced every item in his home, until he lived in the splendor that reflected his scarlet robe.&lt;/p&gt;
+
+&lt;p&gt;The Diderot Effect is a term that describes the tendency for purchases to trigger additional purchases.&lt;/p&gt;
+
+&lt;p&gt;In a similar way, we work specifically saying our behavior works. For the sake of her daughter’s happiness and his satisfaction he came up with the idea about books &amp;amp; nothing is different for another person. For the sake of his good life, he couldn’t find another way &amp;amp; came up with an effect. Everyone wants to be satisfied with their own efforts &amp;amp; want to reach a place where no one without them stays. But during this race, we forget our destination &amp;amp; we miss our target. After fulfilling jar with sufficient water we keep struggling with our results &amp;amp; think 💭 it’s not enough yet. Everybody likes to stand in a sphere of triumphs, comparing our previous results that are also fine but what goes wrong is not reaching our satisfactory level, because it always affected by our surroundings. So, it’s better to know which is our place?&lt;/p&gt;
+
+&lt;p&gt;Hopefully, you’ll get to know about your place very soon. This is all I want to share with you and, I’m hoping the above words deserve your support, love &amp;amp; likes. Share this among your friends &amp;amp; stay with my writeups for the upcoming write-up.&lt;/p&gt;
+
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Article Of Your Downfall.</title><link href="/2020/07/13/Article-Of-Your-Downfall.html" rel="alternate" type="text/html" title="Article Of Your Downfall." /><published>2020-07-13T18:02:31+05:30</published><updated>2020-07-13T18:02:31+05:30</updated><id>/2020/07/13/Article-Of-Your-Downfall</id><content type="html" xml:base="/2020/07/13/Article-Of-Your-Downfall.html">&lt;p&gt;As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!&lt;/p&gt;
+
+&lt;p&gt;Once Michael Eisner said in a 1996 speech, “Failing is good as long as it doesn’t become a habit.” it’s so suitable statement about the life you should remember. Whenever you want to change the habit which you’ve been maintaining for months, years take a lot of cognitive &amp;amp; manual efforts. The habit of falling in every field where you’ve performed so well doesn’t seem satisfied with your efforts, does it? But the following statement will able to shift view towards your failures. It’s about the most memorable invention often the light bulb, which purportedly took Thomas Edison’s 1,000 tries before he developed a successful prototype.“How did it feel to fail 1,000 times?” a reporter asked. “I didn’t fail 1,000 times. The light bulb was an invention with 1,000 steps.” Edison responded.&lt;/p&gt;
+
+&lt;p&gt;No failure is too small to be ignored or go unregarded significant explanation from Edison’s response. One thought Yes, I’ve tried, and yes, I’ve failed, but that will not stop me! I’ll try again even if I fail again can give rise to face that habit of failure again great justification from Eisner’s quote. What if you learned how to fail in a better way? can also solve many problems. Just to explain that Backett said “Trying to fail is not necessarily failing. Trying to succeed sharpens a technique, refines a strategy, narrows problem &amp;amp; focuses your attention on the solution.”&lt;/p&gt;
+
+&lt;p&gt;Not succeeding is not the same as failing, because at least it tells people to be patient for a while. You should hope for the best while planning for the worst can be the safest way to perform. Failure is not a temporary condition. Failure is not something to tolerate while focusing on the bright side. Then what failure entirely says?
+What does it illustrate?&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Failure doesn’t mean that you haven’t worked hard; 
+it simply means that you need to take another approach to achieve what you want.
+
+If you have been knocked to the ground by failure, 
+get back on your feet and push harder to show that 
+nothing can break you down. Don’t let self-doubt hold you back.
+
+Failure gives you a path for redirection. 
+You get a sense of clarity everywhere you have gone wrong 
+and how to take a better path to reach where you want to be. 
+You get the ability for instant decisions.
+
+Failure keeps you grounded. Failure teaches you to 
+value all the right things in order to succeed. 
+You pursue a conflict between confidence &amp;amp; overconfidence.
+
+In order to achieve targets &amp;amp; goals, you need to 
+leave your comfort zone. Failure takes you out of 
+your comfort zone to achieve everything you want.
+
+Failures show you how mentally strong and capable you are. 
+Failure shows you the opportunity to correct wrong moves.
+
+Failure is an experience that gives a 
+person two advantages: Experience and Feedback.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Some justifications
+Why do you deal with failure in life?&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The core cause can be a distraction. If you’re observing day-to-day 
+life how much time you’re spending on yourself? &amp;amp; 
+how much time you’re investing in things which hardly beneficial for your life?
+
+Some of you just haven’t taken your life responsibility. 
+It results in, you don’t know what’s happening in your life?
+
+Then comes your belief, you don’t believe things are possible to do. 
+So you just spend time running away from opportunities.
+
+Your thoughts play the most important function, 
+more you see possibilities more you feel to achieve it. 
+But deep down you think you don’t deserve what you want. 
+It shows your way towards failure.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In conclusion, the problem is that we have stories only about the failures that eventually led to success. We selectively remember the success, since it’s such a relief, and the failure goes unsung. Get up with your failure make it worthwhile for your life, try to fail in better ways. Pay attention where you went wrong &amp;amp; correct it in the next move.&lt;/p&gt;
+
+&lt;p&gt;Hope you’ve picked two or three lines for yourself &amp;amp; for others, give them a chance to read by sharing this article among friend on social sites. I’ll keep writing on various topics and you must keep an eye on my writeups. For notification do subscribe.&lt;/p&gt;
+
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What Do You Deserve</title><link href="/2020/06/13/What-Do-You-Deserve.html" rel="alternate" type="text/html" title="What Do You Deserve" /><published>2020-06-13T18:02:31+05:30</published><updated>2020-06-13T18:02:31+05:30</updated><id>/2020/06/13/What-Do-You-Deserve</id><content type="html" xml:base="/2020/06/13/What-Do-You-Deserve.html">&lt;p&gt;Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.&lt;/p&gt;
+
+&lt;p&gt;Life surprises us many times. We don’t know what will be in front of us within a few minutes. But we always have to make a ‘CHOICE’ which somehow to be the best for ourselves. What was your choice, what is your choice &amp;amp; what will be your choice to decide what will you face &amp;amp; how will you face it?&lt;/p&gt;
+
+&lt;p&gt;In terms of surprise we have one gift, we can offer it to others or can keep it i.e “HAPPINESS”. It’s not just worded it’s a vibe, vibe full of positivity &amp;amp; thought that warm us from inside that ‘Everything Is Going To Be Alright !! …&lt;/p&gt;
+
+&lt;p&gt;Every ‘Day &amp;amp; Night’, Every ‘Sunrise &amp;amp; Sunset’ leaves message for us that, there is a HOPE,’Wrong’ can be converted into ‘Right’, ‘No’ can be changed into ‘Yes’.Hope, those tears we wept alone will vanish &amp;amp; will bring a curve of a smile on our face. So don’t leave hope &amp;amp; for that very first thing we should feel from inside is our ‘Happiness’.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-does-have-its-name--hope-&quot;&gt;FUTURE DOES HAVE IT’S NAME ” HOPE “&lt;/h2&gt;
+
+&lt;p&gt;It’s an invisible, untouchable, unoccupied gift that should not be affected by anyone. Readers, you don’t have to pay for it, and GST also not applicable. It can be a gift coupon for others with no last date but with one referral code of ‘SHARING’. Anyone can redeem it anywhere &amp;amp; anytime.&lt;/p&gt;
+
+&lt;p&gt;We don’t need to wait for ‘Christmas’ or ‘Diwali’ at all, neither for ‘New Year’ nor for ‘Birthday Night / Morning’. We don’t need any ‘Occassion’ or ‘Party’ to experience happiness. Whether your friend tagged you in the pic or not, whether you got a good grade in exams or not, whether you’re appreciated for your work or not, whether you notice ‘Good Morning’ or ‘Good Night’ message from the most expected person it really doesn’t matter for being happy from inside.&lt;/p&gt;
+
+&lt;p&gt;Then what goes wrong by all of us, is that linking all the moments, situations, actions, responses made by others or by ourselves. We’ve been lined up according to different algorithms used in different situations. If we’re ready to change our programmable mind &amp;amp; we succeed by achieving it then definitely this illusion will end up soon. We will be able to live in ‘HAPPY-STATE’ all the time.&lt;/p&gt;
+
+&lt;p&gt;So, people always remember happiness stays with you all the time. It’ll be a reason for your positive vibes &amp;amp; for your positive thinking. No one can steal it, no one can buy it, no one can auction it, no one can destroy it. ‘Happiness’ will always be with you even you’re in the worst situation of our life. So, always choose to be ‘Happy’ from inside.&lt;/p&gt;
+
+&lt;p&gt;This is all about today and, I’m hoping the above words deserve your support, love &amp;amp; likes. Share this among your friends &amp;amp; stay with my writeups.&lt;/p&gt;
+
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

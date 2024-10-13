@@ -1,0 +1,25 @@
+---
+layout: post
+title: "No Error Resolving Bug"
+date:   2020-12-13 18:02:31 +0530
+---
+
+Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.
+
+If computer programming is one of the most interesting fields anyone can choose ever then it’s also one of the most dangerous paths someone can choose for themselves. A programmer knows how much he/she needs to be careful while writing bug-free code. One small mistake can make someone a rich person just in a few seconds and it can also cause a loss of money in business and even human life. Let’s get started with bugs!! It’s a modern concept related to computer software as well as hardware. It’s much older indeed. It’s a behavior or results in the system gets which is no designed to perform. Most of the bugs occur due to developers while writing source code, compilers during converting one language into another. The program which occurred with a large number of bugs can be called ”Buggy”. Some bugs cause issues related to security & some either cause the program to crash & databases not respond. While adding different functionalities many bugs take place in software. The bottom line to remember is computer viruses are not bugs, they’re replicated while bugs can’t be.
+
+The first recorded use of the term “bug”, with regards to an error or malfunction in a machine, comes from none other than Thomas Edison. Became a popular term for mechanical faults. The word bug was commonly used in engineering terminology. Famously, the very first instance of a computer “bug” was recorded at 3:45 pm (15:45) on the 9th of September 1947. This “bug” was an actual real-life moth, well, an ex-moth, that was extracted to the number 70 relay, Panel F, of the Harvard Mark II Aiken Relay Calculator.
+
+The Y2K famously caused the display of the wrong date, because the programs were not designed to handle dates after the year 1999. This bug was called Y2K or “millennium bug”. The letter K stands for kilo used to represent the number 1, 000. So, Y2K stands for the Year 2000. It affected banks that calculate interest rates daily, centers of technology such as power plants, transportation, and a lot of things. Billions of dollars were spent to upgrade computer systems worldwide. The Windows calculator also contains a bug with itself. This bug exists in almost all Windows versions including Windows XP, Vista, 7, and Windows 8. You can check it in your system. Open Windows Calculator, then type 4 and take the square root, you will get 2 then subtract 2 from it. Instead of result 0, you will see a different result. The largest online payment processor in the world Paypal also faced programming errors. PayPal accidentally makes Pennsylvania man Chris Reynolds the world’s richest person with $92 quadrillion. The exact amount is significant in the world of 64-bit numbers suggesting a programming error. Many computers run on Intel technology and Intel is always known for its good processors but a bug was found in the Pentium x86 processor.
+
+Time to shift on the next part of the article, it’s about errors in the computer system. Unexpectedly causes the computer not to perform or function properly. Let’s clear the difference between bugs & and errors. The bug is an error found in code, but errors are the messages shown by the system to the user. System errors are commonly fixed by updating systems. Hardware errors defect inside computer connections. Mostly we can replace the hardware to resolve such errors.
+
+To understand the type of computer errors we first need to study the message through which errors occur on our computer screen. Human errors are caused mostly by humans, not by hardware or software. Being aware of what we’re performing on-screen & confirming only valid permission can reduce human errors. File not found errors sometimes irritate us after being saving the file on the computer it doesn’t find by the user. When this error occurs make sure the file exists in a specific location. If the case file had been moved or deleted file was not found error occurs. Access denied error when a user doesn’t have appropriate access rights. We have to grant permission from the administrator in the case to access some network. We get disturbed when a blue screen occurs, it calls the Blue screen of death error. BSoD is mostly caused due to a hard drive & it unable users to read or write data. It’s mostly encountered with computers using the Windows operating system. When a web page is not available it occurs with a 404 error. You can’t do anything to get access to that website.
+
+    Always remember whether it’s technology or life 
+    errors can’t be subtracted or ignored 
+    it always get added in the next action.
+
+Yes, that’s it for 2020’s last blog. Let your life be error & bug-free. Make the best of 2020s few days happening & enjoy your upcoming year.
+
+-Thank You
