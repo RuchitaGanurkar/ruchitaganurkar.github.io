@@ -1,3 +1,3 @@
 Personal Website
 
-# ruchita-ganurkar.github.io
+# ruchitaganurkar.github.io
