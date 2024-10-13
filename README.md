@@ -1,1 +1,1 @@
-# ruchita-ganurkar.github.io
+# ruchitaganurkar.github.io
