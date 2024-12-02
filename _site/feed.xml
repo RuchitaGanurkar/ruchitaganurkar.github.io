@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-15T17:20:29+05:30</updated><id>/feed.xml</id><title type="html">Ruchita Ganurkar</title><subtitle>Platform For Curious Minds</subtitle><entry><title type="html">No Error Resolving Bug</title><link href="/2020/12/13/No-Error-Resolving-Bug.html" rel="alternate" type="text/html" title="No Error Resolving Bug" /><published>2020-12-13T18:02:31+05:30</published><updated>2020-12-13T18:02:31+05:30</updated><id>/2020/12/13/No-Error-Resolving-Bug</id><content type="html" xml:base="/2020/12/13/No-Error-Resolving-Bug.html">&lt;p&gt;Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-02T18:38:34+05:30</updated><id>/feed.xml</id><title type="html">Ruchita Ganurkar</title><subtitle>Platform For Curious Minds</subtitle><entry><title type="html">Data Types</title><link href="/2024/12/01/Haskell-Chapter-01.html" rel="alternate" type="text/html" title="Data Types" /><published>2024-12-01T12:00:00+05:30</published><updated>2024-12-01T12:00:00+05:30</updated><id>/2024/12/01/Haskell-Chapter-01</id><content type="html" xml:base="/2024/12/01/Haskell-Chapter-01.html">&lt;h1 id=&quot;-haskell-types-overview&quot;&gt;🚀 &lt;strong&gt;Haskell Types Overview&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Welcome to the ultimate guide to Haskell types! 
+This document covers &lt;strong&gt;Sum Types&lt;/strong&gt; and all other major types in Haskell, with detailed explanations and practical examples. 
+Let’s dive in! 🚀&lt;/p&gt;
+
+&lt;h2 id=&quot;-1-sum-types&quot;&gt;📖 &lt;strong&gt;1. Sum Types&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Sum types represent values that can be one of many alternatives. 
+They’re perfect for modeling the data with multiple “cases.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Example of a Sum Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Shape = 
+      Circle Float 
+  |   Rectangle Float Float 
+  |   Triangle Float Float Float&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Product Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Point = Point Int Int&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Record Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Employee = Employee { name :: String, age :: Int }&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Newtype
+    &lt;blockquote&gt;
+      &lt;p&gt;newtype UserId = UserId Int&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Polymorphic Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Box a = Box a&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of an Enum Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Color = 
+     Red
+ |   Green 
+ |   Blue&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Recursive Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data List a = 
+     Empty 
+ |   Cons a (List a)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Phantom Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Phantom a = Phantom&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of an Existential Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Showable = forall a. Show a =&amp;gt; MkShowable a&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a GADT 
+    &lt;blockquote&gt;
+      &lt;p&gt;data Expr a where &lt;br /&gt;
+  IntLit :: Int -&amp;gt; Expr Int &lt;br /&gt;
+  BoolLit :: Bool -&amp;gt; Expr Bool &lt;br /&gt;
+  Add :: Expr Int -&amp;gt; Expr Int -&amp;gt; Expr Int &lt;br /&gt;
+  If :: Expr Bool -&amp;gt; Expr a -&amp;gt; Expr a -&amp;gt; Expr a&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Type Synonym
+    &lt;blockquote&gt;
+      &lt;p&gt;type StringAlias = String&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Tuple 
+    &lt;blockquote&gt;
+      &lt;p&gt;pair = (1, “Hello”)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a List 
+    &lt;blockquote&gt;
+      &lt;p&gt;numbers = [1, 2, 3, 4]&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of Maybe Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Maybe a = 
+     Nothing
+ |   Just a&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of Either Type
+    &lt;blockquote&gt;
+      &lt;p&gt;data Either a b = 
+     Left a
+ |   Right b&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of Unit Type
+    &lt;blockquote&gt;
+      &lt;p&gt;unit = ()&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example of a Function Type
+    &lt;blockquote&gt;
+      &lt;p&gt;add :: Int -&amp;gt; Int -&amp;gt; Int &lt;br /&gt;
+add x y = x + y&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;🔑 Conclusion&lt;/p&gt;
+
+&lt;p&gt;Haskell offers a wide variety of types to model &amp;gt; data with precision, flexibility, and safety. 
+From simple Sum Types to powerful GADTs, you can choose the best tool for the job. 
+Explore these types to write robust and expressive Haskell programs! 🛠️✨&lt;/p&gt;</content><author><name></name></author><summary type="html">🚀 Haskell Types Overview</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">No Error Resolving Bug</title><link href="/2020/12/13/No-Error-Resolving-Bug.html" rel="alternate" type="text/html" title="No Error Resolving Bug" /><published>2020-12-13T18:02:31+05:30</published><updated>2020-12-13T18:02:31+05:30</updated><id>/2020/12/13/No-Error-Resolving-Bug</id><content type="html" xml:base="/2020/12/13/No-Error-Resolving-Bug.html">&lt;p&gt;Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.&lt;/p&gt;
 
 &lt;p&gt;If computer programming is one of the most interesting fields anyone can choose ever then it’s also one of the most dangerous paths someone can choose for themselves. A programmer knows how much he/she needs to be careful while writing bug-free code. One small mistake can make someone a rich person just in a few seconds and it can also cause a loss of money in business and even human life. Let’s get started with bugs!! It’s a modern concept related to computer software as well as hardware. It’s much older indeed. It’s a behavior or results in the system gets which is no designed to perform. Most of the bugs occur due to developers while writing source code, compilers during converting one language into another. The program which occurred with a large number of bugs can be called ”Buggy”. Some bugs cause issues related to security &amp;amp; some either cause the program to crash &amp;amp; databases not respond. While adding different functionalities many bugs take place in software. The bottom line to remember is computer viruses are not bugs, they’re replicated while bugs can’t be.&lt;/p&gt;
 
@@ -17,7 +136,7 @@ it always get added in the next action.
 
 &lt;p&gt;Yes, that’s it for 2020’s last blog. Let your life be error &amp;amp; bug-free. Make the best of 2020s few days happening &amp;amp; enjoy your upcoming year.&lt;/p&gt;
 
-&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tunnel Of The Thought</title><link href="/2020/11/13/Tunnel-Of-The-Though.html" rel="alternate" type="text/html" title="Tunnel Of The Thought" /><published>2020-11-13T18:02:31+05:30</published><updated>2020-11-13T18:02:31+05:30</updated><id>/2020/11/13/Tunnel-Of-The-Though</id><content type="html" xml:base="/2020/11/13/Tunnel-Of-The-Though.html">&lt;p&gt;Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.&lt;/p&gt;
+&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey there, are you ready to wrap up 2020 finally? But before doing so, have a read last read theme some on technical topics. From the title, you could probably guess, but it’ll be fun reading time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tunnel Of The Thought</title><link href="/2020/11/13/Tunnel-Of-The-Though.html" rel="alternate" type="text/html" title="Tunnel Of The Thought" /><published>2020-11-13T18:02:31+05:30</published><updated>2020-11-13T18:02:31+05:30</updated><id>/2020/11/13/Tunnel-Of-The-Though</id><content type="html" xml:base="/2020/11/13/Tunnel-Of-The-Though.html">&lt;p&gt;Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.&lt;/p&gt;
 
 &lt;p&gt;This stuff is all about recent studies about the brain, its emotions &amp;amp; body responses. Our brain’s network generates three mental states emotions, body feelings, thoughts. All those interlink human behavior. The one feeling we human being constantly go through is infatuation. It’s an intense feeling of passion for specific individuals. Synonyms for infatuation can be madness or passion. It is often characterized by persistent, continuous thoughts about the object. These thoughts may take on fantasies, anxiously distracting concentration &amp;amp; feeling of stress. Individuals flow &amp;amp; focuses at one moment on the possibilities of one’s feeling are reciprocated &amp;amp; at the next moment it’s not. This contribution of emotional turbulence is experienced by infatuated individuals.&lt;/p&gt;
 
@@ -35,7 +154,7 @@ Commitment – It refers to the decision
 
 &lt;p&gt;You can read more about triangular theory here and I’m gonna finish this little but important topic now. Enjoy the 2020 festive season, stay happy &amp;amp; healthy. Be ready to read the next blog very soon.&lt;/p&gt;
 
-&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Laws Rules You</title><link href="/2020/10/13/Laws-Rules-You.html" rel="alternate" type="text/html" title="Laws Rules You" /><published>2020-10-13T18:02:31+05:30</published><updated>2020-10-13T18:02:31+05:30</updated><id>/2020/10/13/Laws-Rules-You</id><content type="html" xml:base="/2020/10/13/Laws-Rules-You.html">&lt;p&gt;Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.&lt;/p&gt;
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello there, as the festive vibes in India &amp;amp; at your place has already started. To add a cherry on the cake I’ve brought a very short topic to read. For the next few minutes, you’ll be reading about a very genuine feeling all human beings experience. No more delays just stay with the my shell thought for the upcoming reads.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Laws Rules You</title><link href="/2020/10/13/Laws-Rules-You.html" rel="alternate" type="text/html" title="Laws Rules You" /><published>2020-10-13T18:02:31+05:30</published><updated>2020-10-13T18:02:31+05:30</updated><id>/2020/10/13/Laws-Rules-You</id><content type="html" xml:base="/2020/10/13/Laws-Rules-You.html">&lt;p&gt;Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.&lt;/p&gt;
 
 &lt;p&gt;Murphy’s law is not a law basically, it’s a statement with no relevant proof. Its origin is unknown to murphy also. So scientists can’t find its traces at all. Scientists relate it with mathematical logic as well as some laws of universe entropy i.e. Second Law Of Thermodynamics.&lt;/p&gt;
 
@@ -110,7 +229,7 @@ because fools are so ingenious.
 
 &lt;p&gt;Summing up the entire topic, just remember if anything went wrong you were not responsible for it. So, let go past regrets from now and enjoy life from the heart. If this content has cultivated a curiosity about the murphy let me know in the comments. The next blog post will come into your mailbox 📭 if you subscribe to it.&lt;/p&gt;
 
-&lt;p&gt;-Than You.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">To Be Or Not To Be</title><link href="/2020/09/13/To-Be-Or-Not-To-Be.html" rel="alternate" type="text/html" title="To Be Or Not To Be" /><published>2020-09-13T18:02:31+05:30</published><updated>2020-09-13T18:02:31+05:30</updated><id>/2020/09/13/To-Be-Or-Not-To-Be</id><content type="html" xml:base="/2020/09/13/To-Be-Or-Not-To-Be.html">&lt;p&gt;Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.&lt;/p&gt;
+&lt;p&gt;-Than You.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yes, a month with a lot of festivals. I hope you’re safe at your places &amp;amp; will take care of yourself &amp;amp; your family. But do not forget to read the new blog on the 13th of each month. Well, what’s new for October? I’ve brought a collection of statements that scientists &amp;amp; researchers tried to prove. Read the following few passages related to Murphy’s Law &amp;amp; wait until it finishes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">To Be Or Not To Be</title><link href="/2020/09/13/To-Be-Or-Not-To-Be.html" rel="alternate" type="text/html" title="To Be Or Not To Be" /><published>2020-09-13T18:02:31+05:30</published><updated>2020-09-13T18:02:31+05:30</updated><id>/2020/09/13/To-Be-Or-Not-To-Be</id><content type="html" xml:base="/2020/09/13/To-Be-Or-Not-To-Be.html">&lt;p&gt;Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.&lt;/p&gt;
 
 &lt;p&gt;Carrying your thoughts to my first blog ‘What Do You Deserve’ I had mentioned why you should live happily ever after every moment, problem &amp;amp; solution too. Moving onwards to the second blog ‘Article Of Your Downfall’ I used how Edison described his trials with a positive attitude along with some specifications. Then reaches to third ‘One Question – Have You Reached?’ I tried to collect how the great Bhaskaracharya &amp;amp; Denis Diderot struggle with their satisfaction level &amp;amp; one of them reached while the other doesn’t.&lt;/p&gt;
 
@@ -199,7 +318,7 @@ most successful person in your field
 
 &lt;p&gt;I hope you enjoyed this read, as it took a lot of effort from my side. So to appreciate my work you’ll definitely share it. Bring your thoughts to me by reaching my official accounts. I’m taking leave now for the next article stay with &lt;a href=&quot;https://ruchita-ganurkar.com&quot;&gt;Blog&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reaching A Place</title><link href="/2020/08/13/Reaching-A-Place.html" rel="alternate" type="text/html" title="Reaching A Place" /><published>2020-08-13T18:02:31+05:30</published><updated>2020-08-13T18:02:31+05:30</updated><id>/2020/08/13/Reaching-A-Place</id><content type="html" xml:base="/2020/08/13/Reaching-A-Place.html">&lt;p&gt;Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..&lt;/p&gt;
+&lt;p&gt;-Thank You&lt;/p&gt;</content><author><name></name></author><summary type="html">Greetings of the month, you’ve been doing great work from home, spending productive time improving yourself &amp;amp; enjoying a lot of festivals with maintaining social distance &amp;amp; keeping in mind there is still no vaccine of COVID-19. Today’s article is a compilation of the previous three in extension with this thought ‘To Be Or Not To Be’. So let dive in and read onward paragraphs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reaching A Place</title><link href="/2020/08/13/Reaching-A-Place.html" rel="alternate" type="text/html" title="Reaching A Place" /><published>2020-08-13T18:02:31+05:30</published><updated>2020-08-13T18:02:31+05:30</updated><id>/2020/08/13/Reaching-A-Place</id><content type="html" xml:base="/2020/08/13/Reaching-A-Place.html">&lt;p&gt;Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..&lt;/p&gt;
 
 &lt;p&gt;The war we’ve been facing to make our life better is never-ending. Illusionary view society, surroundings, family, friends, strangers, technology, politics have been revealing us for decades. We responses them very reasonably all the time hence it’s no end. If not we then someone else will respond to them and the history will keep reiterating the same actions. Some of the below personalities struggled the same &amp;amp; we’re repeating the actions like them. It influences the same result but for us, it’s awful than that effect. Because we’ve none to prevent it we only have one who keeps provoking us to do such stupidity. Before time passes if such activities recognized then hopefully the result will be different. Similarly, before time slips from our hand if we learned how to use them in a good manner then also resulting output will be on our side.&lt;/p&gt;
 
@@ -231,7 +350,7 @@ most successful person in your field
 
 &lt;p&gt;Hopefully, you’ll get to know about your place very soon. This is all I want to share with you and, I’m hoping the above words deserve your support, love &amp;amp; likes. Share this among your friends &amp;amp; stay with my writeups for the upcoming write-up.&lt;/p&gt;
 
-&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Article Of Your Downfall.</title><link href="/2020/07/13/Article-Of-Your-Downfall.html" rel="alternate" type="text/html" title="Article Of Your Downfall." /><published>2020-07-13T18:02:31+05:30</published><updated>2020-07-13T18:02:31+05:30</updated><id>/2020/07/13/Article-Of-Your-Downfall</id><content type="html" xml:base="/2020/07/13/Article-Of-Your-Downfall.html">&lt;p&gt;As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!&lt;/p&gt;
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome readers, we’re here with Ruchita with the new title. Today’s blog is very special to everyone. Mentioned some extraordinary personalities &amp;amp; their work. Furthermore illustrated how the title refers to them. So, let’s begin..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Article Of Your Downfall.</title><link href="/2020/07/13/Article-Of-Your-Downfall.html" rel="alternate" type="text/html" title="Article Of Your Downfall." /><published>2020-07-13T18:02:31+05:30</published><updated>2020-07-13T18:02:31+05:30</updated><id>/2020/07/13/Article-Of-Your-Downfall</id><content type="html" xml:base="/2020/07/13/Article-Of-Your-Downfall.html">&lt;p&gt;As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!&lt;/p&gt;
 
 &lt;p&gt;Once Michael Eisner said in a 1996 speech, “Failing is good as long as it doesn’t become a habit.” it’s so suitable statement about the life you should remember. Whenever you want to change the habit which you’ve been maintaining for months, years take a lot of cognitive &amp;amp; manual efforts. The habit of falling in every field where you’ve performed so well doesn’t seem satisfied with your efforts, does it? But the following statement will able to shift view towards your failures. It’s about the most memorable invention often the light bulb, which purportedly took Thomas Edison’s 1,000 tries before he developed a successful prototype.“How did it feel to fail 1,000 times?” a reporter asked. “I didn’t fail 1,000 times. The light bulb was an invention with 1,000 steps.” Edison responded.&lt;/p&gt;
 
@@ -290,7 +409,7 @@ It shows your way towards failure.
 
 &lt;p&gt;Hope you’ve picked two or three lines for yourself &amp;amp; for others, give them a chance to read by sharing this article among friend on social sites. I’ll keep writing on various topics and you must keep an eye on my writeups. For notification do subscribe.&lt;/p&gt;
 
-&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What Do You Deserve</title><link href="/2020/06/13/What-Do-You-Deserve.html" rel="alternate" type="text/html" title="What Do You Deserve" /><published>2020-06-13T18:02:31+05:30</published><updated>2020-06-13T18:02:31+05:30</updated><id>/2020/06/13/What-Do-You-Deserve</id><content type="html" xml:base="/2020/06/13/What-Do-You-Deserve.html">&lt;p&gt;Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.&lt;/p&gt;
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">As your intellect always want what you’ve dreamed of &amp;amp; if you failed to fulfill, you start reasoning in all possible ways just to give a valid reason to society &amp;amp; to yourself. But without giving excuses can you fail in a better way? Are you ready to prevent ordinary behavior that causes failure? Here you’re again with my writeups on a unique topic. So, guys are you prepared to rewrite opinions about downfalls? Let’s read!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What Do You Deserve</title><link href="/2020/06/13/What-Do-You-Deserve.html" rel="alternate" type="text/html" title="What Do You Deserve" /><published>2020-06-13T18:02:31+05:30</published><updated>2020-06-13T18:02:31+05:30</updated><id>/2020/06/13/What-Do-You-Deserve</id><content type="html" xml:base="/2020/06/13/What-Do-You-Deserve.html">&lt;p&gt;Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.&lt;/p&gt;
 
 &lt;p&gt;Life surprises us many times. We don’t know what will be in front of us within a few minutes. But we always have to make a ‘CHOICE’ which somehow to be the best for ourselves. What was your choice, what is your choice &amp;amp; what will be your choice to decide what will you face &amp;amp; how will you face it?&lt;/p&gt;
 
@@ -310,4 +429,4 @@ It shows your way towards failure.
 
 &lt;p&gt;This is all about today and, I’m hoping the above words deserve your support, love &amp;amp; likes. Share this among your friends &amp;amp; stay with my writeups.&lt;/p&gt;
 
-&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/img/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;-Thank You!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello everyone, I’m so happy to tell you which surprise gift we all have. Are you willing to know? Then have a look…But before that make a promise to yourself, this gift you’ll definitely share with others.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ruchita-ganurkar.com/assets/Ruchita.png" /><media:content medium="image" url="https://ruchita-ganurkar.com/assets/Ruchita.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

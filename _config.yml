@@ -29,7 +29,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://ruchita-ganurkar.com/assets/img/Ruchita.png
+      image: https://ruchita-ganurkar.com/assets/Ruchita.png
 
 
 # twitter:
