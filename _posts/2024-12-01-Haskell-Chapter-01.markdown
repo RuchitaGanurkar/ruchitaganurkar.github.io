@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Types"
+title: "Haskell | Data Types"
 date:   2024-12-01 12:00:00 +0530
 ---
 
